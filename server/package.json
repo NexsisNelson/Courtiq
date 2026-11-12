@@ -1,0 +1,13 @@
+{
+  "name": "courtiq-euroleague-proxy",
+  "private": true,
+  "version": "1.0.0",
+  "description": "CORS-restricted proxy for public EuroLeague results",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  }
+}
